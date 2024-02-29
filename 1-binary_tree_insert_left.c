@@ -6,8 +6,8 @@
  * @parent: A pointer to the node to insert the left-child in.
  * @value: The value to store in the new node.
  *
- * Return: If the parent is NULL or an error arises, the function returns NULL. 
- *         Otherwise, it returns a pointer to the newly created node.
+ * Return: If the parent is NULL or an error arises, the function returns NULL.
+ * Otherwise, it returns a pointer to the newly created node.
  *
  * Description: If parent already has a left-child, the new node
  *              takes its place and the old left-child is set as
